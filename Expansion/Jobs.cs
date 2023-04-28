@@ -44,7 +44,9 @@ public abstract class Jobs
         }
     }
 
-    private abstract class ShowDataTimeJob : IJob
+    
+    [DisallowConcurrentExecution]
+    private class ShowDataTimeJob : IJob
     {
         public async Task Execute(IJobExecutionContext context)
         {
