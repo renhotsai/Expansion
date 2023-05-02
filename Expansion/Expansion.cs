@@ -11,7 +11,7 @@ public static class Expansion
         return value.Equals(compareStr, StringComparison.InvariantCultureIgnoreCase);
     }
 
-    public static bool SameTexts(this string? value, string[]? compareArray)
+    public static bool SameTexts(this string? value, params string[]? compareArray)
     {
         if (value == null)
         {
