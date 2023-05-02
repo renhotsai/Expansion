@@ -1,0 +1,12 @@
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/bin/Debug/net6.0/Expansion.deps.json
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/bin/Debug/net6.0/Expansion.dll
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/bin/Debug/net6.0/Expansion.pdb
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/Expansion.csproj.AssemblyReference.cache
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/Expansion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/Expansion.AssemblyInfoInputs.cache
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/Expansion.AssemblyInfo.cs
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/Expansion.csproj.CoreCompileInputs.cache
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/Expansion.dll
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/refint/Expansion.dll
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/Expansion.pdb
+/Users/renhotsai/Desktop/RiderProjects/Expansion/Expansion/obj/Debug/net6.0/ref/Expansion.dll
