@@ -46,6 +46,7 @@ public abstract class Jobs
 
     
     [DisallowConcurrentExecution]
+    // ReSharper disable once ClassNeverInstantiated.Local
     private class ShowDataTimeJob : IJob
     {
         public async Task Execute(IJobExecutionContext context)
