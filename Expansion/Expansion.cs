@@ -2,13 +2,13 @@ namespace Expansion;
 
 public static class Expansion
 {
-    public static bool SameText(this string str, string compareStr)
+    public static bool SameText(this string value, string compareStr)
     {
         return str.Equals(compareStr, StringComparison.InvariantCultureIgnoreCase);
     }
 
-    public static bool SameTexts(this string str, IEnumerable<string> compareList)
+    public static bool SameTexts(this string value, string[] compareArray)
     {
-        return compareList.Any(compareStr => str.Equals(compareStr, StringComparison.InvariantCultureIgnoreCase));
+        return compareArray.ConContains(value, StringComparison.InvariantCultureIgnoreCase);
     }
 }
