@@ -6,5 +6,5 @@
 *.iml
 out
 gen
-[Bb]in
-[Oo]bj
+[Bb]in/
+[Oo]bj/
